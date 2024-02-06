@@ -1,0 +1,47 @@
+h1{
+    color: blueviolet;
+    text-align: center;
+    font-size: 4rem;
+    text-shadow: 2px 2px #ff0000;;
+}
+
+.btn-div{
+    text-align: center;
+    height: 100px;
+}
+
+input, .task-button{
+    font-size: 1.5rem;
+    margin-left: 10px;
+}
+
+.task-div{
+    border: 2px solid black;
+    box-shadow: 10px 2px 20px rgb(0, 0, 0);
+    margin-top: 10px;
+    background-color: #c3fcf2;
+    color: blueviolet;
+    font-weight: 600;
+    font-size: 1.5rem;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin: 10px;
+    
+}
+.Delete{
+    border: 2px solid red;
+    font-size: 1.25rem;
+    margin-left: 15px;
+    color: red;
+    background-color: rgb(0, 0, 0);
+    width: 100px;
+    box-shadow: 5px 2px 12px rgb(255, 0, 0);
+}
